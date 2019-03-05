@@ -1,0 +1,20 @@
+/* your styles go here */
+.content{
+    margin-left: 16rem;
+}
+
+.content.shrink{
+    margin-left: 6rem;
+}
+
+.margin-top{
+    margin-top:56px;
+}
+
+
+/*sidebar 6rem*/
+@media (max-width: 1199.98px){
+    .content{
+        margin-left: 0rem;
+    }
+}
