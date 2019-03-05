@@ -1,4 +1,20 @@
 /* your styles go here */
+.video{
+    width: 100%;
+    height: auto;
+}
+
+.stats{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.blue{
+    background-color: #ffb300;
+}
+
 .content{
     margin-left: 16rem;
     -webkit-transition: all 0.2s;
@@ -11,6 +27,12 @@
 
 .margin-top{
     margin-top:56px;
+}
+
+.card-center{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
 }
 
 

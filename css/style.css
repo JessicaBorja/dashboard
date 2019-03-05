@@ -4065,6 +4065,12 @@ code {
   border-bottom-left-radius: 1rem;
 }
 
+.card-video{
+  padding:0;
+  width: 100%;
+  height: auto;
+}
+
 .card-body {
   padding: 2rem;
 }
