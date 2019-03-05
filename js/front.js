@@ -6,7 +6,7 @@ $(function () {
     // ------------------------------------------------------ //
     $('.sidebar-toggler').on('click', function () {
         $('.sidebar').toggleClass('shrink show');
-        $('.content').toggleClass('');
+        $('.content').toggleClass('shrink');
     });
 
 

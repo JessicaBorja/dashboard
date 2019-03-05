@@ -1,6 +1,8 @@
 /* your styles go here */
 .content{
     margin-left: 16rem;
+    -webkit-transition: all 0.2s;
+    transition: all 0.2s;
 }
 
 .content.shrink{
